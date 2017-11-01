@@ -1,1 +1,1 @@
-# docker_ruby_imagemagick
+Official Ruby image with imagemagick
