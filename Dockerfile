@@ -12,6 +12,4 @@ RUN apt-get update \
     libmagickwand-dev \
     --fix-missing --no-install-recommends
 
-RUN gem install bundler
-
 CMD ["/bin/bash"]
