@@ -11,5 +11,3 @@ RUN apt-get update \
     libmagickcore-dev \
     libmagickwand-dev \
     --fix-missing --no-install-recommends
-
-CMD ["/bin/bash"]
